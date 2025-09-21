@@ -1,0 +1,9 @@
+com\ecom\mvc\model\Inventory.class
+com\ecom\mvc\service\InventoryService.class
+com\ecom\mvc\config\InventoryConfig.class
+com\ecom\mvc\App.class
+com\ecom\mvc\respository\InventoryRepositoryImpl.class
+com\ecom\mvc\irepository\InventoryRepository.class
+com\ecom\mvc\respository\InventoryRowMapper.class
+com\ecom\mvc\controller\InventoryController.class
+com\ecom\mvc\dto\InventoryDTO.class

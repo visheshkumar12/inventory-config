@@ -1,0 +1,7 @@
+com\ecom\product\irepository\ProductRepository.class
+com\ecom\product\model\Product.class
+com\ecom\product\controller\ProductController.class
+com\ecom\product\repository\ProductRepositoryImpl.class
+com\ecom\product\service\ProductService.class
+com\ecom\product\dto\ProductDTO.class
+com\ecom\product\ProductApplication.class
